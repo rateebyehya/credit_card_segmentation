@@ -4,4 +4,4 @@ The objective of this report is to develop a customer segmentation of active cre
 
 We use principal component analysis (PCA) to reduce the dimenionality of our dataset. After that, we experiment clustering the data with KMeans and Agglomerative clustering. Then, we choose KMeans as our model and develop marketing strategies for each cluster.
 
-Check out the report for full analysis. 
+Check out the report for full analysis!
